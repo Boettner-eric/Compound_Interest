@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E57A43923189630B1D7D2AFE6AC0F8AD3316B4B0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E57A43923189630B1D7D2AFE6AC0F8AD3316B4B0" : 9223372036854775807,
+    "FB136308CB4E1B750AD378FC2BDB223F54DF983F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "796C417C-7294-42F1-AD99-2488D0AE49F8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E57A43923189630B1D7D2AFE6AC0F8AD3316B4B0" : "Compound%20Interest\/",
+    "FB136308CB4E1B750AD378FC2BDB223F54DF983F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Compound Interest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Compound Interest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Boettner-eric\/Compound_Interest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E57A43923189630B1D7D2AFE6AC0F8AD3316B4B0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Boettner-eric\/ipxhomepage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB136308CB4E1B750AD378FC2BDB223F54DF983F"
+    }
+  ]
+}
